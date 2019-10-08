@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E604BB1D-0289-4534-BE44-92901DA3F030}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IPN1</RootNamespace>
+    <AssemblyName>IPN1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Kinect, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Kinect.Fusion, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Kinect.Tools, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64" />
+    <Reference Include="Microsoft.Kinect.Wpf.Controls, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Transitions, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\dot-net-transitions.1.2.1.0\lib\net40-full\Transitions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InfoKata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InfoKata.Designer.cs">
+      <DependentUpon>InfoKata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\IniciarEntrenamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\IniciarEntrenamiento.Designer.cs">
+      <DependentUpon>IniciarEntrenamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MenuInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MenuInicio.Designer.cs">
+      <DependentUpon>MenuInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MiProgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MiProgreso.Designer.cs">
+      <DependentUpon>MiProgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\VK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\VK.Designer.cs">
+      <DependentUpon>VK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\MiCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MiCuenta.Designer.cs">
+      <DependentUpon>MiCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\RecuperarContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RecuperarContraseña.Designer.cs">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TerminosDeUso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TerminosDeUso.Designer.cs">
+      <DependentUpon>TerminosDeUso.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InfoKata.resx">
+      <DependentUpon>InfoKata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\IniciarEntrenamiento.resx">
+      <DependentUpon>IniciarEntrenamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MenuInicio.resx">
+      <DependentUpon>MenuInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MiProgreso.resx">
+      <DependentUpon>MiProgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\VK.resx">
+      <DependentUpon>VK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\MiCuenta.resx">
+      <DependentUpon>MiCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RecuperarContraseña.resx">
+      <DependentUpon>RecuperarContraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TerminosDeUso.es.resx">
+      <DependentUpon>TerminosDeUso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TerminosDeUso.resx">
+      <DependentUpon>TerminosDeUso.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxAXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxQTActiveXPluginCtrlLib">
+      <Guid>{02BF25D2-8C17-4B23-BC80-D3488ABDDC6B}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="QTActiveXPluginCtrlLib">
+      <Guid>{02BF25D2-8C17-4B23-BC80-D3488ABDDC6B}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\B1_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\B1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Wallpapersxl Paisajes Hd Cristianos Orientales Fondos De Pantalla Imagenes 323831 1280x1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BI1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BI1_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BS1_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Contenedor3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Contenedor4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BO1_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BO1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\BS2_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Miprogreso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Micuenta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Micuenta_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Miprogreso_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Salir_Hover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\FondoMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Secuencia1GIF.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\SecuenciaNoDisponible.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Secuencia1.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Sakura-flores-cerezo-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Contenedor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Contenedor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1111.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
