@@ -1,0 +1,173 @@
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\IPN1.exe.config
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\IPN1.exe
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\IPN1.pdb
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\Interop.AXVLC.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\AxInterop.AXVLC.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.csprojResolveAssemblyReference.cache
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\Interop.AXVLC.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\AxInterop.AXVLC.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.csproj.ResolveComReference.cache
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.Form1.resources
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.Properties.Resources.resources
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.csproj.GenerateResource.Cache
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.exe
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.pdb
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\Interop.QTActiveXPluginCtrlLib.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\Interop.WMPLib.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\bin\Debug\AxInterop.WMPLib.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\Interop.QTActiveXPluginCtrlLib.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\Interop.WMPLib.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+c:\users\nightwing\documents\visual studio 2015\Projects\IPN1\IPN1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\IPN1.exe.config
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\Interop.AXVLC.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\Interop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.csproj.ResolveComReference.cache
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.exe
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.pdb
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\IPN1.exe
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\IPN1.pdb
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\Interop.AXVLC.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\Interop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.csprojResolveAssemblyReference.cache
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.Form1.resources
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.Properties.Resources.resources
+C:\Users\Nightwing\Documents\Carpeta de Programas\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.csproj.GenerateResource.Cache
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\es\IPN1.resources.dll
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.es.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\es\IPN1.resources.dll
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.Registro.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.MenuInicio.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\Transitions.dll
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\bin\Debug\Transitions.pdb
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.Micuenta.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.DesarrolloKata.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.InfoKata.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.IniciarEntrenamiento.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.MiProgreso.resources
+C:\Users\Nightwing\Documents\Visual Studio 2015\Projects\IPN1\IPN1\obj\Debug\IPN1.RecuperarContraseña.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\IPN1.exe.config
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.csproj.ResolveComReference.cache
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.exe
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.pdb
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\IPN1.exe
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\IPN1.pdb
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\es\IPN1.resources.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Transitions.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Transitions.pdb
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.csprojResolveAssemblyReference.cache
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.DesarrolloKata.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.Form1.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.InfoKata.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.IniciarEntrenamiento.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.MenuInicio.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.MiProgreso.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.Properties.Resources.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.Micuenta.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.RecuperarContraseña.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.Registro.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.es.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.csproj.GenerateResource.Cache
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\es\IPN1.resources.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.Forms.Visualizacion_Kinect.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\obj\Debug\IPN1.Visualizacion.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Mano\Documents\Escuela\TT2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\IPN1.exe.config
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\Interop.AXVLC.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\Interop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.csproj.ResolveComReference.cache
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.exe
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.pdb
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\IPN1.exe
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\IPN1.pdb
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\es\IPN1.resources.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Transitions.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Transitions.pdb
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Interop.AXVLC.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Interop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.csprojResolveAssemblyReference.cache
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.DesarrolloKata.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.Form1.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.InfoKata.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.IniciarEntrenamiento.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.MenuInicio.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.MiProgreso.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.Forms.Visualizacion_Kinect.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.Properties.Resources.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.Micuenta.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.RecuperarContraseña.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.Registro.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.es.resources
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\IPN1.csproj.GenerateResource.Cache
+C:\Users\Nightwing\Documents\Instituto Politécnico Nacional\Trabajo Terminal\IPN1\IPN1\obj\Debug\es\IPN1.resources.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\IPN1.exe.config
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.csproj.ResolveComReference.cache
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.exe
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.pdb
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\IPN1.exe
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\IPN1.pdb
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\es\IPN1.resources.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Transitions.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Transitions.pdb
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.csprojResolveAssemblyReference.cache
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.Form1.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.InfoKata.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.IniciarEntrenamiento.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.MenuInicio.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.MiProgreso.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.Properties.Resources.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.Micuenta.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.RecuperarContraseña.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.Registro.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.TerminosDeUso.es.resources
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.csproj.GenerateResource.Cache
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\es\IPN1.resources.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\Mano\Documents\Escuela\TT2\IPN2\IPN1\IPN1\obj\Debug\IPN1.VK.resources
